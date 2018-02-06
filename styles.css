@@ -1,0 +1,39 @@
+body {
+    color: #303030;
+    margin-top: 50px;
+}
+footer {
+    color: #545454;
+    font-size: 10px;
+    text-align: center;
+}
+
+h1 {
+    font-size: 24px;
+}
+
+h2 {
+    font-size: 20px;
+}
+
+h3 {
+    font-size: 18px;
+}
+
+p {
+    font-family: sans-serif;
+    font-size: 12pt;
+}
+
+table {
+    width: 70%;
+    border-collapse: collapse;
+}
+
+td {
+    border: 2px #303030 solid;
+    padding: 10px;
+}
+.noBorder {
+    border: none !important;
+}
